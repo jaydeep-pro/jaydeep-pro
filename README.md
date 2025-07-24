@@ -19,10 +19,10 @@ JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui 
 ![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydeep-pro&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## LeetCode Stats
-[![Jaydeep's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=jaydeep-pro)](https://leetcode.com/jaydeep-pro/)
+[![Jaydeep's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jaydeep-pro&theme=Dark)](https://leetcode.com/jaydeep-pro/)
 
 ## Contribution Graph
-![Jaydeep's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaydeep-pro&theme=react-dark)
+[![Jaydeep's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaydeep-pro&bg_color=1e25e6&color=4e8371&line=4e8371&point=07df4f&area=true&hide_border=true)](https://github.com/jaydeep-pro)
 
 ## Dynamic Quote
 > "The best code is the one that solves a problem elegantly." - Unknown Coder

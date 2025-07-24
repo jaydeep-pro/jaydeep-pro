@@ -16,7 +16,7 @@ I’m a passionate developer from MNIT Jaipur, thriving in full-stack developmen
 JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui · Redux Toolkit · React Query · NextAuth · Axios · Fetch API · Node.js · Express.js · MongoDB · Git · Vercel · Lucide Icons · Heroicons · GraphQL · Web Optimization · Competitive Programming · Material-UI · Elastic UI · Orval · Formik · Zod · Emotion CSS · React · React-Cookie · Faker.js · Prettier · QS · Chart.js · ApexCharts · SCSS · Lodash · Toastify · React Icons · MUI Icons
 
 ## GitHub Stats
-![Jaydeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaydeep-pro&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Jaydeep's GitHub Stats](https://github-profile-trophy.vercel.app/?username=jaydeep-pro&theme=dark)
 
 ## LeetCode Stats
 [![Jaydeep's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jaydeep-pro&theme=Dark)](https://leetcode.com/jaydeep-pro/)
@@ -41,5 +41,11 @@ JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui 
 - 💻 **Top Language**: JavaScript
 <!--END_STATS-->
 ---
+
+
+## Experience
+<!--START_EXPERIENCE-->
+# **Total Experience:** 1 years, 6 months, 14 days, 14 hours, 7 minutes
+<!--END_EXPERIENCE-->
 
 From Jaipur, India!!!

@@ -35,10 +35,11 @@ JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui 
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jaydeepjangid/practice/)
 
 ## Fun Stats
-- 🎯 **2025 Contributions**: 250+ (and growing!)
-- 🌟 **Stars Earned**: 1 (Let’s aim higher!)
+<!--START_STATS-->
+- 🎯 **2025 Contributions**: 210 (auto-updated)
+- 🌟 **Stars Earned**: 4
 - 💻 **Top Language**: JavaScript
-
+<!--END_STATS-->
 ---
 
 From Jaipur, India!!!

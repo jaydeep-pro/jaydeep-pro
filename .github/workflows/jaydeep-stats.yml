@@ -2,7 +2,7 @@ name: Jaydeep's Dynamic Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 * * * *"  # Runs every hour
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,8 @@ jobs:
         run: npm install node-fetch@2
 
       - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-readme.js
 
       - name: Commit changes

@@ -45,7 +45,7 @@ JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui 
 
 ## Experience
 <!--START_EXPERIENCE-->
-# **Total Experience:** 1 years, 9 months, 0 days, 23 hours, 26 minutes
+# **Total Experience:** 1 years, 9 months, 1 days, 0 hours, 0 minutes
 <!--END_EXPERIENCE-->
 
 From Jaipur, India!!!

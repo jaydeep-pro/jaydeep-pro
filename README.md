@@ -37,15 +37,15 @@ JavaScript · TypeScript · React 18 · Next.js 15 · Tailwind CSS · shadcn/ui 
 ## Fun Stats
 <!--START_STATS-->
 - 🎯 **2025 Contributions**: 0
-- 🌟 **Stars Earned**: 0
-- 💻 **Top Language**: N/A
+- 🌟 **Stars Earned**: 4
+- 💻 **Top Language**: JavaScript
 <!--END_STATS-->
 ---
 
 
 ## Experience
 <!--START_EXPERIENCE-->
-# **Total Experience:** 2 years, 2 months, 2 days, 23 hours, 9 minutes
+# **Total Experience:** 2 years, 2 months, 3 days, 1 hours, 19 minutes
 <!--END_EXPERIENCE-->
 
 From Jaipur, India!!!
